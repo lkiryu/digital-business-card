@@ -1,0 +1,18 @@
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px 70px;
+    background-color: #161619;
+    border-radius: 0 0 10px 10px;
+}
+
+.social{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+    width: 100%;
+    color: #918E9B;
+}
